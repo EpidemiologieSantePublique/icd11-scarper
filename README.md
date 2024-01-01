@@ -1,5 +1,7 @@
 # ICD 11 Scraper
 
+<!-- Created: January 1, 2024 -->
+
 This R script leverages the ICD 11 API to scrape and retrieve medical code and classification information from the International Classification of Diseases (ICD) 11th Edition. The script is designed for the French language, focusing on the release 2023-01-fr.
 
 ## Features
@@ -17,4 +19,8 @@ This R script leverages the ICD 11 API to scrape and retrieve medical code and c
 This script is intended for educational purposes and personal use only. Comply with the terms of use and licensing agreements of the ICD 11 API.
 
 Feel free to contribute or provide feedback!
+
+**Author:** MK. Guerchani aka Epidemiologie SantePublique
+
+[GitHub Repository](https://github.com/EpidemiologieSantePublique/icd11-scarper)
 
