@@ -2,7 +2,7 @@
 
 <!-- Created: January 1, 2024 -->
 
-This R script leverages the ICD 11 API to scrape and retrieve medical code and classification information from the International Classification of Diseases (ICD) 11th Edition. The script is designed for the French language, focusing on the release 2023-01-fr.
+This R script leverages the ICD 11 API to scrape and retrieve medical code and classification information from the International Classification of Diseases (ICD) 11th Edition.
 
 ## Features
 - Crawls and scrapes data from the ICD 11 API.
